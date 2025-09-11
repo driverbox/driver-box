@@ -376,6 +376,10 @@ const filterGroups = computed(() => {
                   </template>
                 </template>
               </ul>
+
+              <p class="label text-apple-green-800 text-wrap">
+                {{ $t('driverForm.incompatibleWithHelp') }}
+              </p>
             </fieldset>
 
             <button type="submit" class="btn btn-secondary">

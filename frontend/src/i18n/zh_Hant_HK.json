@@ -35,6 +35,7 @@
     "editDriver": "編輯軀動程式",
     "incompatibleForNewHelp": "新加入的軀動程式須在儲存後，才會顯示在「不能同時安裝」中。",
     "incompatibleWith": "不能同時安裝",
+    "incompatibleWithHelp": "選擇不能同時執行的軀動程式。",
     "manualInput": "手動輸入",
     "minExecuteTime": "執行時間（秒）",
     "minExecuteTimeHelp": "安裝軀動的時間少於所輸入的時間，將會被視作安裝失敗。",
