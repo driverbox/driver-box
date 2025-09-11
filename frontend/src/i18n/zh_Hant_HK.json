@@ -38,7 +38,7 @@
     "incompatibleWithHelp": "選擇不能同時執行的軀動程式。",
     "manualInput": "手動輸入",
     "minExecuteTime": "執行時間（秒）",
-    "minExecuteTimeHelp": "安裝軀動的時間少於所輸入的時間，將會被視作安裝失敗。",
+    "minExecuteTimeHelp": "安裝軀動的時間下限。少於所輸入的時間，將會被視作安裝失敗。",
     "name": "名稱",
     "none": "沒有",
     "order": "排序",
